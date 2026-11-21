@@ -242,15 +242,15 @@
 		</revisionDesc>
 	</teiHeader>
 	<text>
-	    <front>
-        <div>
-            <head>About the Harley Manuscript</head>
-            <p>
-                This digital edition presents Alcuin's De Ratione
-                as preserved in the Harley manuscript.
-            </p>
-        </div>
-    </front>
+	<front>
+    		<div type="document_front">
+        	<head>About the Harley Manuscript</head>
+        <p>
+            This digital edition presents Alcuin's De Ratione
+            as preserved in the Harley manuscript.
+        </p>
+    	</div>
+	</front>
 
 		<body>
 			<pb n="131v" facs="img271.jpg" />
